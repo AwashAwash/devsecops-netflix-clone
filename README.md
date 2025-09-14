@@ -16,6 +16,9 @@
 
 
 
+
+Before, please check out my linked post Url -https://www.linkedin.com/posts/activity-7354524257084665857-Oviw?utm_source=share&utm_medium=member_desktop&rcm=ACoAACY74gkBUtwskDdA_IAvKNLeRaESUXIyFis
+
 # Deploy Netflix Clone on Cloud using Jenkins - DevSecOps Project!
 
 ### **Phase 1: Initial Setup and Deployment**
